@@ -1,5 +1,6 @@
 import logoDark from "./logo-dark.svg";
 import logoLight from "./logo-light.svg";
+// haha
 
 export function Welcome({ message }: { message: string }) {
 	return (
